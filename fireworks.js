@@ -7,8 +7,8 @@ const colors = [
     "#ffffff"
 ];
 const letters = "✨❤I LOVE YOU❤✨";
-const nameLine1 = "happy birthday";
-const nameLine2 = "widyaningrum";
+const nameLine1 = "HAPPY BIRTHDAY KE 18";
+const nameLine2 = "Widyaningrum";
 let letterIndex = 0;
 
 // Muat suara
